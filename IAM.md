@@ -1,5 +1,3 @@
-# Repositório para estudo das ferramentas 
-
 ## IAM
  -  Um dos serviços mais importantes da AWS, este serviço é responsável por dar acesso ao controle de permissões para todos os serviços,
  criação de usuários, grupos e funções. 
