@@ -19,4 +19,9 @@
      2.  `>= (Greater/Equal): quando valor é maior ou igual ao valo estimado `
      3.  `<= (Lower/Equal): quando o valor é meno ou igual ao valo estimado`
      3.  `< (Lower): quando o valor é menor que o valor estimado`
- 7. valor a ser monitorado.
+ 7. valor a ser monitorado
+ 8. Cria de novo tópico SNS (serviço de notificação simples - simple notification service)
+    - nome do tópico
+    - e-mail que será avisado (necessário confirmação do e-mail)
+9. nomaer o alarme e dar uma breve descrição 
+10. Criar alarme 
